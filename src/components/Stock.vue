@@ -14,7 +14,7 @@
           <span>AAPL</span>
         </h3>
       </div>
-      <span class="stock-item_price"></span>
+      <span class="stock-item_price">1000$</span>
     </div>
   </div>
 </template>
